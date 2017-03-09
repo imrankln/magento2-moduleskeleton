@@ -4,7 +4,7 @@
     "license": [
         "proprietary"
     ],
-    "description": "Magento2 extension for MagentoU Training.",
+    "description": "Module base skeleton for Magento 2",
     "version": "0.0.1",
     "authors":[
         {
